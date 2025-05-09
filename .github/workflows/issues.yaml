@@ -1,4 +1,4 @@
-name: assignment1
+name: issues
 on: issues
 jobs:
     workflow2:

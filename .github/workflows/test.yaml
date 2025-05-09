@@ -1,4 +1,4 @@
-name: assignment1
+name: test
 on: push
 jobs:
     workflow1:
