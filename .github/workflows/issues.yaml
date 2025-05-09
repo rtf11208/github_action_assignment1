@@ -1,0 +1,8 @@
+name: assignment1
+on: issues
+jobs:
+    workflow2:
+        runs-on: ubuntu-latest
+        steps:
+            - name: issues
+              run: echo ${{ github }}
